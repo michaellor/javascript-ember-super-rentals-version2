@@ -1,0 +1,22 @@
+.jumbotron {
+  text-align: center;
+  background-image: url(http://portlandmetrolive.com/wp-content/uploads/2015/01/Downtown-Portland-at-Night.jpg);
+  background-size: contain;
+  /*background-color: #B3E8C5;*/
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  height: 100px;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+}
+
+/*body {
+  background-image: url(https://media.giphy.com/media/y9bsry0lwu6uQ/giphy.gif);
+  background-size: contain;
+  color: red;
+}*/
